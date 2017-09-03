@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/siddharth/AndroidStudioProjects/SimpleMessenger/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="49a6fc9aadf0602c8eb4016e0af0dcf175345404">
+        <dex dex="/home/siddharth/AndroidStudioProjects/SimpleMessenger/app/build/intermediates/pre-dexed/debug/instant-run_275dd47ed2a5cbb2fd07d95bc522c331d8486771.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/siddharth/AndroidStudioProjects/SimpleMessenger/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="d55381549c913333b0b82f29b87ccc6eeaff4076">
+        <dex dex="/home/siddharth/AndroidStudioProjects/SimpleMessenger/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_c6740acdca3b359cb52fb352f05bf8efe807c375.jar" />
+    </item>
+
+</items>
